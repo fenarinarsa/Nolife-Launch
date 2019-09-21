@@ -1,4 +1,4 @@
-# intro_nolife
+# Nolife Launch
 The intro used for the launch of the TV channel Nolife
 
 Code: fenarinarsa , gfx: Phan/NGC 
