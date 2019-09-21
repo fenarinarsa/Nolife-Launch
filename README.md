@@ -1,8 +1,7 @@
 # intro_nolife
 The intro used for the launch of the TV channel Nolife
 
-Code: fenarinarsa 
-Gfx: Phan/NGC 
+Code: fenarinarsa , gfx: Phan/NGC 
 
 En 2007 une nouvelle chaîne de TV s'est lancée en France : Nolife.
 
