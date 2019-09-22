@@ -11,5 +11,5 @@ Elle est programmée en Blitz Basic car j'avais cherché un langage simple, avec
 
 De mémoire le reste du compte à rebours de 2h avait été aussi généré en Blitz Basic alors que les versions des années suivantes ont été faites sous After Effects. De toute manière il avait planté à la diffusion car le fichier était trop gros : seules les 15 dernières minutes ont été diffusées, incluant cette intro.
 
-Pas de licence car le starfield provient d'une démo fournie avec le Blitz Basic.
+Pas de licence car le starfield provient d'une démo fournie avec le Blitz Basic.   
 La musique n'est pas incluse dans le dépôt car elle n'est pas libre de droits.
